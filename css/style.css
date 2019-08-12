@@ -1,0 +1,16 @@
+body {
+    position: relative;
+    height: auto;
+    min-height: 100% !important;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#xp {
+    height: 300px;
+    background: yellow;
+}
+
+#portofolio {
+    height: 300px;
+    background: green;
+}
