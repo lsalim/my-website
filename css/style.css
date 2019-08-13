@@ -3,6 +3,7 @@ body {
     height: auto;
     min-height: 100% !important;
     font-family: 'Courier New', Courier, monospace;
+    background: rgb(248, 248, 248);
 }
 
 #xp {
